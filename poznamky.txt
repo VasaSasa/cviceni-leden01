@@ -17,7 +17,7 @@ GITHUB  (gitlab, gitbucket)
 verzovací verze = commity
 
 
-
+git branch -M main - přejmenuje Master na main
 
 
 
